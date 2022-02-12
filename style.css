@@ -1,0 +1,33 @@
+body
+{
+    font-family: 'Rowdies', cursive;
+    background-color: rgb(90, 142, 238);
+}
+
+.header_div
+{
+    background-color: pink;
+    color: yellow;
+}
+
+.header_div p
+{
+    color: red;
+}
+
+.main_div button
+{
+    margin-top: 25px;
+    width: 130px;
+}
+
+.copywrite_footer
+{
+    position: fixed;
+    bottom: 0;
+    color: black;
+    background-color: rgb(255, 132, 132);
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
